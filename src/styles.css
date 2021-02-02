@@ -53,8 +53,7 @@ li {
 .search-form {
   margin-bottom: 20px;
 }
-.p {
-  font-size: x-small;
-  color:blue;
-  position:center;
+.source{ color: cornflowerblue;
+font-size: x-small;
+padding: 0;
 }
